@@ -22,3 +22,4 @@
   - Scenario #1 🔴 - Created failing test
   - Scenario #1 ⚙ - updated .gitignore
   - Scenario #1 ⚙ - updated stuff
+  - Scenario #1 ⚙
