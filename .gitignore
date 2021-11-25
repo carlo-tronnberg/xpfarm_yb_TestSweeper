@@ -124,3 +124,5 @@ git_create.bat
 .scenarioCounter.txt
 .ustoryCounter.txt
 tsnotes.md
+coverage/lcov-report/index.html
+coverage/lcov-report/testSweeper.js.html
