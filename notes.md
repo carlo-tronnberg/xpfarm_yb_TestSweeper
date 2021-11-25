@@ -26,3 +26,4 @@
   - Scenario #1 ⚙
   - Scenario #1 ⚙
   - Scenario #1 ⚙ - rm node_modules
+  - Scenario #1 ⚙
